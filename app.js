@@ -6,11 +6,11 @@
 
 // if (n > 0) {
 
-//     console.log( ++n );
+// console.log( ++n );
 
 // } else {
 
-//     console.log(n);
+// console.log(n);
 
 // };
 
@@ -22,11 +22,11 @@
 
 // if ( m > 0 ) {
 
-//     console.log( ++m );} else{
+// console.log( ++m );} else{
 
-//         console.log(-2+m); 
+// console.log(-2+m); 
 
-//     };
+// };
 
 
 // 3-masala
@@ -57,23 +57,23 @@
 
 // if (A > 0) {
 
-//     A = 1 } else{
+// A = 1 } else{
 
-//     A = 0 };
+// A = 0 };
 
 // if (B > 0) {
 
-//     B = 1 } else{
-    
-//     B = 0 };
+// B = 1 } else{
+
+// B = 0 };
 
 // if (C > 0) {
 
-//     C = 1 } else{
-        
-//     C = 0 };
+// C = 1 } else{
 
-//     console.log(A+B+C);
+// C = 0 };
+
+// console.log(A+B+C);
 
 // 5-masala
 
@@ -89,13 +89,13 @@
 
 // let manfiy = 0;
 
-// if (M > 0){
+// if ( M > 0 ){
 
 // ++musbat} else {
 
 // ++manfiy};
 
-// if (N > 0){
+// if ( N > 0 ){
 
 // ++musbat}
 
@@ -103,10 +103,10 @@
 
 // ++manfiy};
 
-// if (K > 0){
+// if ( K > 0 ) {
 
 // ++musbat}
-    
+
 // else {
 
 // ++manfiy};
@@ -123,7 +123,7 @@
 
 // let H = +prompt('H');
 
-// if (J > H){
+// if ( J > H ){
 
 // console.log(J);}else{
 
@@ -131,20 +131,64 @@
 
 // 7-masala
 
-// alert('ikkita buun son kiriting kichigini tartib raqamini aniqlovchi algoritm');
+// alert('ikkita butun son kiriting kichigini tartib raqamini aniqlovchi algoritm');
 
-let x = +prompt('x')
+// let x = +prompt('x');
 
+// let y = +prompt('y');
 
+// let min ;
 
+// if ( x > y ) {
 
+// min = ('2-chisi kichik')} else{
 
+// min = ('1-chisi kichigi')}
 
+// console.log(min);
 
+// 8-masala
 
+// alert("ikkita son kiriting avval kattasini so'ng kichigini chiqaruvchi algoritm");
 
+// let Q = +prompt('Q ni qiymatini kiriting');
 
+// let P = +prompt('P ni qiymatini kiriting');
 
+// if ( Q > P ) {
+
+// console.log(Q),console.log(P);}else{
+
+// console.log(P),console.log(Q) };
+
+// 9-masala
+
+// alert("ikkia son kiriting shulardan birinchisini katta qilib beruvchi algoritm");
+
+// let D = +prompt('D ni kiriting');
+
+// let T = +prompt('T ni kiriting');
+
+// if ( D > T ) { 
+
+// console.log(D),console.log(T)}else{
+
+// console.log(T),console.log(D)};
+
+// 10-masala
+
+alert("ikkia son kiriting agar ular o'zaro teng bo'lmasa yigindisini, aks holda 0 ni o'zlashtirib sonlani ko'rsatib beruvchi algoritm");
+
+let U = +prompt('U ni kiriing');
+
+let R = +prompt('R ni kiriting');
+
+let 
+if ( U = R ) {
+
+console.log(U+R)} else {
+
+}
 
 
 
